@@ -35,8 +35,7 @@ class DevInfo extends StatelessWidget {
                     child: Text(
                       '''
 Name: Navdeep Singh                  
-Roll No: 101916021
-Batch: CS9''',
+''',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 25,
@@ -55,8 +54,7 @@ Batch: CS9''',
                     child: Text(
                       '''
 Name: Siya Dutta                          
-Roll No: 101916026
-Batch: CS9''',
+''',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 25,
@@ -75,8 +73,7 @@ Batch: CS9''',
                     child: Text(
                       '''
 Name: Nihar Wadhwa                  
-Roll No: 101903461
-Batch: COE18''',
+''',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 25,
@@ -95,8 +92,7 @@ Batch: COE18''',
                     child: Text(
                       '''
 Name: Paras Arora                      
-Roll No: 101916115
-Batch: CS10''',
+''',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 25,
@@ -115,8 +111,7 @@ Batch: CS10''',
                     child: Text(
                       '''
 Name: Dhruv Mehta                     
-Roll No: 101903420
-Batch: COE16''',
+''',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 25,
@@ -135,8 +130,7 @@ Batch: COE16''',
                     child: Text(
                       '''
 Name: Ekamjoth Singh               
-Roll No: 101916019
-Batch: CS9''',
+''',
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 25,
